@@ -1,0 +1,17 @@
+     ~~~~~~~~~~~~~~~~~~~~ PLAGIARISM REPORT ~~~~~~~~~~~~~~~~~
+     ---------------------------------------------------
+     File                 | Similarity      | Severity       
+     ---------------------------------------------------
+     Demo2.txt            | None            | Low            
+     Demo3.txt            | None            | Low            
+     ---------------------------------------------------
+     Total Files Compared: 2
+     Total Plagiarized Files: 0
+
+     --------------------------------------------------------------------------
+               Text Analysis Results
+     --------------------------------------------------------------------------
+     Sentence Length (Avg):   |    27 (Long sentences - Complex text.)
+     Reading Ease (Flesch):   |    63.5 (Moderately readable.)
+     AI Likelihood Score:     |    0.64 (Uncertain - Could be AI or human.)
+     --------------------------------------------------------------------------
