@@ -1,6 +1,6 @@
 # Dupfree
 
-![CLI Screenshot](path/to/cli-screenshot.png)
+![CLI Screenshot](images/Dupfree.png)
 
 Dupfree is a powerful, CLI-based plagiarism detection tool designed to detect textual similarity and assess AI-generated text likelihood. With the ability to process text inputs, TXT files, and PDF documents, Dupfree generates detailed analysis reports, including output on the console and in TXT format.
 
