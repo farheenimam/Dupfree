@@ -184,6 +184,7 @@ Ensure all functionalities, including text analysis and plagiarism detection, pa
 ## Output Examples
 
 ![CLI Screenshot](images/dupfree1.png)
+![CLI Screenshot](images/dupfree2.png)
 
 ## Contact
 
